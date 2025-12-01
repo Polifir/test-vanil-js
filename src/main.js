@@ -14,7 +14,7 @@ const coursesData = [
         title: 'The Ultimate Google Ads Training Course',
         price: 100,
         author: 'Jerome Bell',
-        image: '../public/images/Jerome_Bell.jpg'
+        image: '/images/Jerome_Bell.jpg'
     },
     {
         id: 2,
@@ -22,7 +22,7 @@ const coursesData = [
         category: 'Management',
         price: 480,
         author: 'Marvin McKinney',
-        image: '../public/images/Marvin_McKinney.jpg'
+        image: '/images/Marvin_McKinney.jpg'
     },
     {
         id: 3,
@@ -30,7 +30,7 @@ const coursesData = [
         category: 'HR & Recruiting',
         price: 200,
         author: 'Leslie Alexander Li',
-        image: '../public/images/Leslie_Alexander_Li.jpg'
+        image: '/images/Leslie_Alexander_Li.jpg'
     },
     {
         id: 4,
@@ -38,7 +38,7 @@ const coursesData = [
         category: 'Marketing',
         price: 530,
         author: 'Kristin Watson',
-        image: '../public/images/Kristin_Watson.jpg'
+        image: '/images/Kristin_Watson.jpg'
     },
     {
         id: 5,
@@ -46,7 +46,7 @@ const coursesData = [
         category: 'Design',
         price: 500,
         author: 'Guy Hawkins',
-        image: '../public/images/Guy_Hawkins.jpg'
+        image: '/images/Guy_Hawkins.jpg'
     },
     {
         id: 6,
@@ -54,7 +54,7 @@ const coursesData = [
         category: 'Management',
         price: 400,
         author: 'Dianne hRussell',
-        image: '../public/images/Dianne_Russell.jpg'
+        image: '/images/Dianne_Russell.jpg'
     },
     {
         id: 7,
@@ -62,7 +62,7 @@ const coursesData = [
         category: 'Development',
         price: 600,
         author: 'Brooklyn Simmons',
-        image: '../public/images/Brooklyn_Simmons.jpg'
+        image: '/images/Brooklyn_Simmons.jpg'
     },
     {
         id: 8,
@@ -70,7 +70,7 @@ const coursesData = [
         category: 'HR & Recruiting',
         price: 150,
         author: 'by Kathryn Murphy',
-        image: '../public/images/Kathryn_Murphy.jpg'
+        image: '/images/Kathryn_Murphy.jpg'
     },
     {
         id: 9,
@@ -78,7 +78,7 @@ const coursesData = [
         category: 'Design',
         price: 240,
         author: 'Cody Fisher',
-        image: '../public/images/Cody_Fisher.jpg'
+        image: '/images/Cody_Fisher.jpg'
     },
 ];
 
