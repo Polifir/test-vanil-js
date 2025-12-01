@@ -179,6 +179,12 @@ html {
     width: 315px;
     position: relative;
     
+    &__label{
+        display: block;
+        position: relative;
+        cursor: text; 
+
+    }
     @media (max-width: 992px) {
         width: 100%;
         max-width: 400px;
